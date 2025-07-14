@@ -1,4 +1,4 @@
-# free-ai-models
+# Free-AI-Models
 
 USE AI MODELS AS FULL FREE.
 
